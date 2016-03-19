@@ -1,0 +1,5 @@
+{	
+	"app": "app",
+	"build": "build",
+	"output": ["scripts/share/app.js", "scripts/share/share-init.js"]
+}
