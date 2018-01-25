@@ -16,7 +16,6 @@
   "author": "chenke",
   "license": "ISC",
   "devDependencies": {
-    "@tencent/gulp-wsd-cdn-upload": "^1.0.0",
     "body-parser": "^1.13.2",
     "browser-sync": "^2.7.13",
     "express": "^4.13.1",
